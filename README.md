@@ -18,5 +18,5 @@
  </div>
  <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
- ![Snake animation](https://github.com/TomazHaddad/TomazHaddad/blob/output/github-contribution-grid-snake.svg)
+ ![snake gif](https://github.com/TomazHaddad/TomazHaddad/blob/output/github-contribution-grid-snake.svg)
 </div>
