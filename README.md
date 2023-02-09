@@ -1,16 +1,18 @@
-### Hi there 👋
+### 👋 Olá! Me chamo Tomaz Haddad! 👋
 
-<!--
-**TomazHaddad/TomazHaddad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Graduando em Sistemas de Informação - Universidade de São Paulo
+- 👀 Procurando uma oportunidade de estágio;
+- 📈 Estudando Java, Springboot e SQL; 
+- 📞 (11) 94933-3081
+- 💻 https://www.linkedin.com/in/tomaz-haddad/
+- 📟 tomazhaddad@gmail.com
+  
+<div>
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=16&theme=synthwave"/>
+</div>
+  <div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  
+</div>
